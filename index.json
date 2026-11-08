@@ -1,0 +1,11 @@
+{
+  "org": "bentoml",
+  "repo": "BentoSpacy",
+  "versions": [
+    {
+      "commit": "b17cc50f4022efaacbb0e1821e5fa8665c1e1a26",
+      "tag": "",
+      "parsed_at": "2026-11-08T03:19:32.292133+00:00"
+    }
+  ]
+}
