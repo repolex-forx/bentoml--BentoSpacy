@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bentoml/BentoSpacy/commit/b17cc50f4022efaacbb0e1821e5fa8665c1e1a26",
       "git:hexsha": "b17cc50f4022efaacbb0e1821e5fa8665c1e1a26",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
